@@ -2,31 +2,20 @@
 ;;
 ;; https://www.hackerrank.com/challenges/lambda-march-compute-the-perimeter-of-a-polygon
 
-(defn read-line-nums
-  []
-  (map #(Integer/parseInt %) ((comp #(clojure.string/split % #" ") read-line))))
+(use '[clojure.string :only (split)])
 
-(defn read-tuples
-  [n]
-  (loop [i 0 tuples []]
-    (if (< i n)
-      (recur (inc i) (conj tuples (read-line-nums)))
-      tuples)))
+(defn to-num [n](Long/parseLong n))
+(defn dist [[x1 y1] [x2 y2]] (Math/hypot (- x1 x2) (- y1 y2)))
 
-(defn distance
-  [[[a-x a-y] [b-x b-y]]]
-  (Math/sqrt (+ (Math/pow (- a-y b-y) 2) (Math/pow (- a-x b-x) 2))))
+(defn pairs
+  [col]
+  (conj (partition 2 1 col) [(first col) (peek col)]))
 
 (defn perimeter
-  [[start & _ :as coordinates]]
-  (loop
-    [sum 0 remaining coordinates]
-    (let [pair (take 2 remaining)]
-      (if (= (count pair) 1)
-        (+ sum (distance (conj pair start)))
-        (recur
-          (+ sum (distance pair))
-          (rest remaining))))))
+  [coordinates]
+  (apply + (map (partial apply dist) (pairs coordinates))))
 
-(println (perimeter (read-tuples (first (read-line-nums)))))
+(def N (to-num (read-line)))
+(def P (vec (for [n (range N)] (map to-num (split (read-line) #" ")))))
 
+(println (perimeter P))
