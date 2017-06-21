@@ -21,7 +21,9 @@ Difficulty:
 - The Grid Search (++)
   - [Java](./algorithms/implementation/the-grid-search.java)  
 - Absolute Permutation (++)
-  - [Java](./algorithms/implementation/absolute-permutation.java)  
+  - [Java](./algorithms/implementation/absolute-permutation.java)
+- Bomber Man (++)
+  - [Java](./algorithms/implementation/bomber-man.java)
 
 ## Functional Programming
 
