@@ -24,6 +24,8 @@ Difficulty:
   - [Java](./algorithms/implementation/absolute-permutation.java)
 - Bomber Man (++)
   - [Java](./algorithms/implementation/bomber-man.java)
+- Ema's Supercomputer (++)
+  - [Java](./algorithms/implementation/emas-supercomputer.java)
 
 ## Functional Programming
 
