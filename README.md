@@ -26,6 +26,8 @@ Difficulty:
   - [Java](./algorithms/implementation/bomber-man.java)
 - Ema's Supercomputer (++)
   - [Java](./algorithms/implementation/emas-supercomputer.java)
+- Larry's Array (++)
+  - [Java](./algorithms/implementation/larrys-array.java)
 
 ## Functional Programming
 
