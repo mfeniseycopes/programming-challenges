@@ -28,6 +28,8 @@ Difficulty:
   - [Java](./algorithms/implementation/emas-supercomputer.java)
 - Larry's Array (++)
   - [Java](./algorithms/implementation/larrys-array.java)
+- Almost Sorted (++)
+  - [Java](./algorithms/implementation/almost-sorted.java)
 
 ## Functional Programming
 
