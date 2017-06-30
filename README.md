@@ -31,6 +31,10 @@ Difficulty:
 - Almost Sorted (++)
   - [Java](./algorithms/implementation/almost-sorted.java)
 
+### Strings
+- Reduced String (+)
+  - [Java](./algorithms/strings/reduced-string.java)
+
 ## Functional Programming
 
 ### Introduction
