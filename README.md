@@ -44,6 +44,9 @@ Difficulty:
   - [Java](./algorithms/strings/richie-rich.java)
 - Sherlock and the Anagrams (++)
   - [Java](./algorithms/strings/sherlock-and-anagrams.java)
+- Common Child (++)
+  - [Java](./algorithms/strings/common-child.java)
+
 
 ## Functional Programming
 
