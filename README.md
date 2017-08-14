@@ -34,8 +34,12 @@ Difficulty:
 ### Strings
 - Reduced String (+)
   - [Java](./algorithms/strings/reduced-string.java)
+- CamelCase (+)
   - [Java](./algorithms/strings/camel-case.java)
+- Two Characters (+)
   - [JavaScript](./algorithms/strings/two-characters.js)
+- Sherlock and the Valid String (++)
+  - [Java](./algorithms/strings/sherlock-and-valid-string.java)
 
 ## Functional Programming
 
