@@ -40,6 +40,8 @@ Difficulty:
   - [JavaScript](./algorithms/strings/two-characters.js)
 - Sherlock and the Valid String (++)
   - [Java](./algorithms/strings/sherlock-and-valid-string.java)
+- Richie Rich (++)
+  - [Java](./algorithms/strings/richie-rich.java)
 
 ## Functional Programming
 
