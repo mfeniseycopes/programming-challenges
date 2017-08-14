@@ -46,7 +46,8 @@ Difficulty:
   - [Java](./algorithms/strings/sherlock-and-anagrams.java)
 - Common Child (++)
   - [Java](./algorithms/strings/common-child.java)
-
+- Bear and the Steady Gene (++)
+  - [Java](./algorithms/strings/bear-and-steady-gene.java)
 
 ## Functional Programming
 
