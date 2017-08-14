@@ -34,6 +34,8 @@ Difficulty:
 ### Strings
 - Reduced String (+)
   - [Java](./algorithms/strings/reduced-string.java)
+  - [Java](./algorithms/strings/camel-case.java)
+  - [JavaScript](./algorithms/strings/two-characters.js)
 
 ## Functional Programming
 
