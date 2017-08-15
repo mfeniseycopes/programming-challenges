@@ -49,6 +49,10 @@ Difficulty:
 - Bear and the Steady Gene (++)
   - [Java](./algorithms/strings/bear-and-steady-gene.java)
 
+### Sorting
+- Big Sorting (+)
+  - [Java](./algorithms/sorting/big-sorting.java)
+
 ## Functional Programming
 
 ### Introduction
