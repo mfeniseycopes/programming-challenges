@@ -5,6 +5,8 @@ Difficulty:
 - (++) : medium
 - (+++) : hard
 
+- #66 Plus One (+)
+  - [JavaScript](./66-plus-one.js)
 - #231 Power of Two (+)
   - [JavaScript](./231-power-of-two.js)
 - #326 Power of Three (+)
