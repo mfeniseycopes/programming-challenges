@@ -12,6 +12,8 @@
   - [JavaScript](./66-plus-one.js)
 - #231 Power of Two (+)
   - [JavaScript](./231-power-of-two.js)
+- #257 Binary Tree Paths (+)
+  - [JavaScript](./257-binary-tree-paths.js)
 - #326 Power of Three (+)
   - [JavaScript](./326-power-of-three.js)
 - #345 Reverse Vowels of a String (+)
