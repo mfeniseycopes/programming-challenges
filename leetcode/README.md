@@ -8,6 +8,8 @@
 
 ## Challenges
 
+- #20 Valid Parentheses (+)
+  - [JavaScript](./20-valid-parentheses.js)
 - #66 Plus One (+)
   - [JavaScript](./66-plus-one.js)
 - #231 Power of Two (+)
