@@ -26,3 +26,5 @@
   - [JavaScript](./448-find-all-numbers-disappeared-in-an-array.js)
 - #463 Island Perimeter (+)
   - [JavaScript](./463-island-perimeter.js)
+- #535 Encode and Decode a Tiny URL (+)
+  - [JavaScript](./535-encode-and-decode-a-tiny-url.js)
