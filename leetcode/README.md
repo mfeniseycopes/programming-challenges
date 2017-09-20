@@ -8,10 +8,12 @@
 
 ## Challenges
 
-- #20 Letter Combinations of a Phone Number (++)
+- #17 Letter Combinations of a Phone Number (++)
   - [JavaScript](./17-letter-combinations-of-a-phone-number.js)
 - #20 Valid Parentheses (+)
   - [JavaScript](./20-valid-parentheses.js)
+- #22 Generate Parentheses (++)
+  - [JavaScript](./22-generate-parentheses.js)
 - #66 Plus One (+)
   - [JavaScript](./66-plus-one.js)
 - #155 Min Stack (+)
