@@ -14,6 +14,8 @@
   - [JavaScript](./20-valid-parentheses.js)
 - #22 Generate Parentheses (++)
   - [JavaScript](./22-generate-parentheses.js)
+- #23 Merge `k` Sorted LinkedLists
+  - [JavaScript](./23-merge-k-sorted-linked-lists.js)
 - #66 Plus One (+)
   - [JavaScript](./66-plus-one.js)
 - #155 Min Stack (+)
