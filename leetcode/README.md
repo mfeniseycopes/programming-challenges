@@ -18,6 +18,8 @@
   - [JavaScript](./23-merge-k-sorted-linked-lists.js)
 - #31 Next Permutation (++)
   - [JavaScript](./31-next-permutation.js)
+- #42 Trapping Rainwater (++)
+  - [JavaScript](./42-trapping-rainwater.js)
 - #66 Plus One (+)
   - [JavaScript](./66-plus-one.js)
 - #155 Min Stack (+)
