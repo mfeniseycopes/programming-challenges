@@ -30,6 +30,8 @@
   - [JavaScript](./257-binary-tree-paths.js)
 - #286 Walls and Gates (++)
   - [JavaScript](./286-walls-and-gates.js)
+- #357 Count Numbers with Unique Digits (++)
+  - [JavaScript](./357-count-numbers-with-unique-digits.js)
 - #326 Power of Three (+)
   - [JavaScript](./326-power-of-three.js)
 - #340 Longest Longest Substring with At Most K Distinct Characters
