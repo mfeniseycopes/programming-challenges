@@ -22,6 +22,8 @@
   - [JavaScript](./42-trapping-rainwater.js)
 - #66 Plus One (+)
   - [JavaScript](./66-plus-one.js)
+- #146 LRU Cache (+++)
+  - [JavaScript](./146-lru-cache.js)
 - #155 Min Stack (+)
   - [JavaScript](./155-min-stack.js)
 - #231 Power of Two (+)
