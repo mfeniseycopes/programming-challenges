@@ -42,6 +42,8 @@
   - [JavaScript](./357-count-numbers-with-unique-digits.js)
 - #361 Bomb Enemy (++)
   - [JavaScript](./361-bomb-enemy.js)
+- #380 Randomized Set (++)
+  - [JavaScript](./380-randomized-set.js)
 - #397 Integer Replacement (++)
   - [JavaScript](./397-integer-replacement.js)
 - #448 Find All Numbers Disappeared in an Array (+)
