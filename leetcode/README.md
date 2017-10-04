@@ -32,14 +32,16 @@
   - [JavaScript](./257-binary-tree-paths.js)
 - #286 Walls and Gates (++)
   - [JavaScript](./286-walls-and-gates.js)
-- #357 Count Numbers with Unique Digits (++)
-  - [JavaScript](./357-count-numbers-with-unique-digits.js)
 - #326 Power of Three (+)
   - [JavaScript](./326-power-of-three.js)
 - #340 Longest Longest Substring with At Most K Distinct Characters
 	- [JavaScript](./340-longest-substring-with-k-distinct-characters.js)
 - #345 Reverse Vowels of a String (+)
   - [JavaScript](./345-reverse-vowels-of-a-string.js)
+- #357 Count Numbers with Unique Digits (++)
+  - [JavaScript](./357-count-numbers-with-unique-digits.js)
+- #361 Bomb Enemy
+  - [JavaScript](./361-bomb-enemy.js)
 - #448 Find All Numbers Disappeared in an Array (+)
   - [JavaScript](./448-find-all-numbers-disappeared-in-an-array.js)
 - #463 Island Perimeter (+)
