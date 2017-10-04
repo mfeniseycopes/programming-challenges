@@ -40,8 +40,10 @@
   - [JavaScript](./345-reverse-vowels-of-a-string.js)
 - #357 Count Numbers with Unique Digits (++)
   - [JavaScript](./357-count-numbers-with-unique-digits.js)
-- #361 Bomb Enemy
+- #361 Bomb Enemy (++)
   - [JavaScript](./361-bomb-enemy.js)
+- #397 Integer Replacement (++)
+  - [JavaScript](./397-integer-replacement.js)
 - #448 Find All Numbers Disappeared in an Array (+)
   - [JavaScript](./448-find-all-numbers-disappeared-in-an-array.js)
 - #463 Island Perimeter (+)
