@@ -30,6 +30,8 @@
   - [JavaScript](./231-power-of-two.js)
 - #257 Binary Tree Paths (+)
   - [JavaScript](./257-binary-tree-paths.js)
+- #272 Closest Binary Search Tree Value II (++)
+  - [JavaScript](./272-closest-binary-search-tree-value-ii.js)
 - #286 Walls and Gates (++)
   - [JavaScript](./286-walls-and-gates.js)
 - #326 Power of Three (+)
