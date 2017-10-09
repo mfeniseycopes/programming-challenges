@@ -28,6 +28,8 @@
   - [JavaScript](./155-min-stack.js)
 - #231 Power of Two (+)
   - [JavaScript](./231-power-of-two.js)
+- #247 Strobogrammatic Number II (++)
+  - [JavaScript](./247-strobogrammatic-number-ii.js)
 - #257 Binary Tree Paths (+)
   - [JavaScript](./257-binary-tree-paths.js)
 - #272 Closest Binary Search Tree Value II (++)
