@@ -22,6 +22,8 @@
   - [JavaScript](./42-trapping-rainwater.js)
 - #66 Plus One (+)
   - [JavaScript](./66-plus-one.js)
+- #139 Word Break (++)
+  - [JavaScript](./139-word-break.js)
 - #146 LRU Cache (+++)
   - [JavaScript](./146-lru-cache.js)
 - #155 Min Stack (+)
