@@ -38,6 +38,8 @@
   - [JavaScript](./272-closest-binary-search-tree-value-ii.js)
 - #286 Walls and Gates (++)
   - [JavaScript](./286-walls-and-gates.js)
+- #304 Range Sum Query - 2D (++)
+  - [JavaScript](./304-sum-region.js)
 - #326 Power of Three (+)
   - [JavaScript](./326-power-of-three.js)
 - #340 Longest Longest Substring with At Most K Distinct Characters
