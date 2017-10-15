@@ -48,6 +48,8 @@
   - [JavaScript](./345-reverse-vowels-of-a-string.js)
 - #357 Count Numbers with Unique Digits (++)
   - [JavaScript](./357-count-numbers-with-unique-digits.js)
+- #360 Sort Transformed Array (++)
+  - [JavaScript](./360-sort-transformed.js)
 - #361 Bomb Enemy (++)
   - [JavaScript](./361-bomb-enemy.js)
 - #380 Randomized Set (++)
